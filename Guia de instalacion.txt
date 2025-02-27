@@ -1,0 +1,12 @@
+Para la correcta instalación de la base de datos se deben ejecutar los archivos de la carpeta "Entrega final - Neirotti" en el siguiente orden:
+
+1. Creacion tablas taller
+2. Insercion de datos
+3. Vistas
+4. Funciones personalizadas 
+5. Store Procedures
+6. Triggers
+7. Usuarios
+8. Transacciones TCL
+
+Dejo incluido en la carpeta un backup "backup taller" de tablas y vistas.
